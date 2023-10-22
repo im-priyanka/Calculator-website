@@ -1,1 +1,1 @@
-# Calculator-using-HTML-CSS-and-JavaScript
+# CodSoft Level-1 Task-3 Calculator
