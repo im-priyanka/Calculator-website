@@ -1,4 +1,4 @@
-# CodSoft Level-1 Task-3 Calculator
+# Calculator website
 This is Calculator using HTML,CSS and Javascript.
 
 # Screenshot
